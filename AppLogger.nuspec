@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://www.lancent.com</licenseUrl>
+    <projectUrl>http://www.lancent.com</projectUrl>
+    <iconUrl>http://www.lancent.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Init.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Demo</tags>
+  </metadata>
+</package>
